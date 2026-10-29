@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RealEstateAPI.WebHost/RealEstateAPI.WebHost.csproj" />
+  <Project Path="RealEstateRegisteryAPI.Persistence.EF/RealEstateRegisteryAPI.Persistence.EF.csproj" />
+</Solution>
